@@ -1,8 +1,8 @@
 <p align="center">
   <img 
     src="./assets/IMG_0325.JPG" 
-    height="200px" 
-    width ="200px" 
+    height="220px" 
+    width ="220px" 
     alt=""
     style="border-radius: 15px;" 
   />
