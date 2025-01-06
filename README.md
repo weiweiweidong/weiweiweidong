@@ -32,13 +32,10 @@
 ## 🎯 My Goals for 2025
 
 - [ ] Find a job
-
+- [ ] Finish studying AGTAC and complete all the exercises.
 - [ ] Achieve 1200 rating on AtCoder
-
 - [ ] Publish 50 blog posts
-
 - [ ] Complete at least one medium-sized C++ project
-
 - [ ] Further improve my photography skills
 
 <h1 align="Center" style="border-bottom: none; margin-bottom: 0;">Thanks for Stopping by!! 😊</h1>
