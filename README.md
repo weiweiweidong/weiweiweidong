@@ -24,10 +24,11 @@
 
 ## 💻 Tech Stack
 
+- Programming Contest: C++
+- Tool: Bash, Git, Linux
+- Data Science: Python, Numpy, Matlab
+- Machine Learning / Deep Learning: Pytorch
 - Web: JavaScript, Angular, Flutter
-- Data Science：Python, Numpy, Matlab
-- Machine Learning / Deep Learning : Pytorch
-- DevOps: C++, Bash, Git, Linux
 
 ## 🎯 My Goals for 2025
 
