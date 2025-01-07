@@ -33,9 +33,9 @@
 ## 🎯 My Goals for 2025
 
 - [ ] Find a job
-- [ ] Finish studying AGTAC and complete all the exercises.
+- [ ] Finish studying [My_AGTAC](https://github.com/weiweiweidong/My_AGTAC) and complete all the exercises.
 - [ ] Achieve 1200 rating on AtCoder
-- [ ] Publish 50 blog posts
+- [ ] Publish at least 50 blog posts
 - [ ] Complete at least one medium-sized C++ project
 - [ ] Further improve my photography skills
 
