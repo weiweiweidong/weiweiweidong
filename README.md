@@ -35,7 +35,7 @@
 - [ ] Find a job
 - [ ] Finish studying [My_AGTAC](https://github.com/weiweiweidong/My_AGTAC) and complete all the exercises.
 - [ ] Achieve 1200 rating on AtCoder
-- [ ] Publish at least 50 blog posts
+- [ ] Publish at least 50 blog posts (5/50)
 - [ ] Complete at least one medium-sized C++ project
 - [ ] Further improve my photography skills
 
